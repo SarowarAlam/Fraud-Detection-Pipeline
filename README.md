@@ -71,6 +71,3 @@ This project implements a **real-time fraud detection system** using machine lea
 ## Contributing
 Feel free to open issues and submit pull requests to improve the pipeline.
 
-## License
-This project is licensed under the MIT License.
-
